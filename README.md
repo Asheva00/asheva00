@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Asheva00/asheva00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 🔭 I’m currently working on: Enhancing my skills in Data Science and engaging in exciting projects.
 
 🌱 I’m currently learning: Advanced data analysis techniques and machine learning at Yandex Practicum.
