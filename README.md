@@ -10,7 +10,7 @@
 
 💬 Ask me about: Any aspects of data work and marketing research.
 
-📫 How to reach me: Phone +7 920 052 33 53 or Telegram [asheva](https://t.me/asheva).
+📫 How to reach me: Phone +7 920 052 33 53 or Telegram [asheva00](https://t.me/asheva00).
 
 😄 Pronouns: She/Her
 
