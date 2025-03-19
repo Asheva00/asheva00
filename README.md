@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Anastasiia Shevaldina 🙋
+
 
 🔭 I’m currently working on: Enhancing my skills in Data Science and engaging in exciting projects
 
